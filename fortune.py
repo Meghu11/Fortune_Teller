@@ -25,6 +25,11 @@ def main():
             f"Stay steady {name}, great things often follow calmness.",
             "Your calm mindset is your superpower today.",
             f"Keep going {name} — you’re doing better than you think!"
+        ],
+        "stressed": [
+            f"Take a deep breath and focus on what you can control {name}.",
+            "Don't forget to take a break—you deserve it!",
+            f"Stress is temporary {name}. Your strength is permanent."
         ]
     }
 
